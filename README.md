@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="assets/your-animation.gif" alt="Hi there!" width="400"/>
+  <img src="assets/profile.gif" alt="Hi there!" width="400"/>
 </p>
 
 ---
