@@ -4,6 +4,10 @@
 💻 **Full-Stack Developer** | Passionate about Web Apps, System Management Tools, and Creative Design.
 🌏 Based in **Phnom Penh, Cambodia**
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=seavpeavpech24-bot&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 <p align="center">
