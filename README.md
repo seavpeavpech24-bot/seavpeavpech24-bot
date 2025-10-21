@@ -98,6 +98,8 @@ When I’m not coding, I love exploring **AI tools**, improving my design skills
 
 > *“Build things that make an impact — not just code.”*
 
+---
+
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seavpeavpech24-bot&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
