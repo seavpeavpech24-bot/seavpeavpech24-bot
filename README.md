@@ -1,21 +1,105 @@
-<h1 align="center">Hi 👋, I'm SEAVPEAV PECH</h1>
-<h3 align="center">Junior Developer | Turning Ideas into Code with Laravel, React & Next.js</h3>
+# 👋 Hi, I'm Pech Seavpeav
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seavpeavpech24-bot&label=Profile%20views&color=0e75b6&style=flat" alt="seavpeavpech24-bot" /> </p>
+🎓 **Recent Graduate** from the **National Institute of Business** — Bachelor's Degree in Information Technology.
+💻 **Full-Stack Developer** | Passionate about Web Apps, System Management Tools, and Creative Design.
+🌏 Based in **Phnom Penh, Cambodia**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seavpeavpech24-bot" alt="seavpeavpech24-bot" /></a> </p>
+---
 
-- 🔭 I’m currently seeking opportunities as a **Software Engineer or Full-Stack Developer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://github.com/seavpeavpech24-bot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/seavpeavpech24-bot" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://github.com/seavpeavpech24-bot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://github.com/seavpeavpech24-bot" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/your-animation.gif" alt="Hi there!" width="400"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seavpeavpech24-bot&show_icons=true&locale=en&layout=compact" alt="seavpeavpech24-bot" /></p>
+## 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seavpeavpech24-bot&show_icons=true&locale=en" alt="seavpeavpech24-bot" /></p>
+I'm a passionate developer who loves turning ideas into real-world applications.
+From building **web systems with Laravel & Vue.js** to developing **C# desktop apps** and **Next.js full-stack solutions**, I enjoy solving problems through clean code and design thinking.
+
+I'm currently exploring **AI tools** for developer productivity and modern frameworks like **Next.js**, **Node.js**, and **Flutter** to expand my cross-platform skills.
+
+---
+
+## 🚀 Skills & Tools
+
+**Languages:**
+C#, PHP, JavaScript, HTML, CSS
+
+**Frameworks & Libraries:**
+Laravel, Vue.js, React.js, Next.js, Node.js
+
+**Design & Styling:**
+Tailwind CSS, Bootstrap
+
+**Database & Backend:**
+MySQL, phpMyAdmin, Firebase
+
+**Other Tools:**
+GitHub, VS Code, Visual Studio, Cursor AI, Trae AI, Gemini API, Google Firebase Studio, Flutter
+
+---
+
+## 🧩 Projects
+
+### 🏪 MarketManager Lite
+
+A **full-stack market management system** with inventory, sales, HR, analytics, and user licensing.
+**Tech:** Next.js + Node.js (Express) + MySQL
+
+### 🌏 Wonder of Cambodia
+
+A **tourism web app** built with Laravel featuring an **AI chatbot** powered by Gemini API to help travelers explore destinations in Cambodia.
+
+### 💼 POS System (C# Desktop App)
+
+A school project managing sales, invoices, and reports with a clean and modern UI.
+
+### 💡 Front-End Websites
+
+Multiple creative websites built using **HTML, Tailwind CSS, and JavaScript**, focusing on UI/UX design and responsive layouts.
+
+---
+
+## 📜 Certifications
+
+* 🇸🇬 **NYP-ROK ASEAN TVET Mobility Program** – *IT Applications & Development (2024)*, Nanyang Polytechnic, Singapore
+* 🌏 **Eurasia Foundation Program Grant (2022–2023)** – *TVET Study for Peaceful Asian Communities*
+* 🕊️ **Peace, Cooperation, and Human Resource Development Seminar (2021)**
+* 🗺️ **Environmental Education & Compass & Map Training (2022)**
+
+---
+
+## 🤝 I’m Looking to Collaborate On
+
+Freelance or open-source projects related to:
+
+* Web & App Development
+* System Management Platforms
+* AI-Powered Web Tools
+
+---
+
+## 📫 How to Reach Me
+
+📧 **Email:** [pechseavpeav24@gmail.com](mailto:pechseavpeav24@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/seavpeav-pech-557556254](https://www.linkedin.com/in/seavpeav-pech-557556254/)
+🌐 **Portfolio:** [seavpeavpech24-bot](seavpeavpech24-bot.github.io)
+
+---
+
+## ⚡ Fun Fact
+
+When I’m not coding, I love exploring **AI tools**, improving my design skills, and creating **tech videos** on my new YouTube channel — **DevJourney KH** 🎥
+
+> *“Build things that make an impact — not just code.”*
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seavpeavpech24-bot&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seavpeavpech24-bot&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
