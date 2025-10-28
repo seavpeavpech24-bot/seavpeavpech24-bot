@@ -88,7 +88,7 @@ Freelance or open-source projects related to:
 
 📧 **Email:** [seavpeavpech24@gmail.com](mailto:seavpeavpech24@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/seavpeav-pech-557556254](https://www.linkedin.com/in/seavpeav-pech-557556254/)
-🌐 **Portfolio:** [seavpeavpech24-bot](seavpeavpech24-bot.github.io)
+🌐 **Portfolio:** [seavpeavpech24-bot](https://seavpeavpech24-bot.github.io)
 
 ---
 
